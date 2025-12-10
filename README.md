@@ -17,6 +17,7 @@ This github repository provides Postman collections for ACC APIs that contains a
 
  * [Reviews API](./Reviews%20API/)
  * [Packages API](./Packages%20API/)
+ * [Transmittals API](./Transmittals%20API/)
 
 ## What's Postman?
 
