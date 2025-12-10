@@ -1,4 +1,4 @@
-# Postman Collection for ACC Reviews API
+# Postman Collection for ACC File Packages API
 
 [![Postman](https://img.shields.io/badge/Postman-v8-orange.svg)](https://www.getpostman.com/)
 
@@ -7,7 +7,7 @@
 ![Beginner](https://img.shields.io/badge/Level-Beginner-green.svg)
 [![License](https://img.shields.io/:license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
-This folder contains a Postman Collection that includes all the current ACC Reviews API. The collection together with the environment help you easily test these endpoints.
+This folder contains a Postman Collection that includes all the current ACC File Packages API. The collection together with the environment help you easily test these endpoints.
 
 ![Collection](img/collection.png)
 <!-- ![Tutorial](img/tutorial.png) -->
