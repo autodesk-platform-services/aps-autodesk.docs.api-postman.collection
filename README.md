@@ -1,22 +1,23 @@
-# Postman Collection for Autodesk Docs API
+# Postman Collection for Autodesk Forma Data Management (formerly Autodesk Docs) API
 
 [![Postman](https://img.shields.io/badge/Postman-v8-orange.svg)](https://www.getpostman.com/)
 
-[![Autodesk Construction Cloud API](https://img.shields.io/badge/Autodesk%20Construction%20Cloud%20API-v1-green.svg)](https://aps.autodesk.com/en/docs/acc/v1/overview/)
+[![Autodesk Forma API](https://img.shields.io/badge/Autodesk%20Forma%20API-v1-green.svg)](https://aps.autodesk.com/en/docs/acc/v1/overview/)
 
 ![Beginner](https://img.shields.io/badge/Level-Beginner-green.svg)
 [![License](https://img.shields.io/:license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
-Autodesk Construction Cloud (ACC) is Autodesk’s new unified platform that connects workflows, teams and data at every stage of construction to reduce risk, maximize efficiency, and increase profits. It includes a few products: Autodesk Build, Autodesk Collaborate and Autodesk TakeOff etc. All of them are built on Autodesk Docs.
+Autodesk Forma (formerly Autodesk Construction Cloud) is Autodesk’s new unified platform that connects workflows, teams and data at every stage of construction to reduce risk, maximize efficiency, and increase profits. It includes a few products: Autodesk Build, Autodesk Collaborate and Autodesk TakeOff etc. All of them are built on Autodesk Forma Data Management (formerly Autodesk Docs).
 
-The ACC APIs allow developers to develop apps that integrate with the ACC platform to extend its capabilities in the construction ecosystem. Check **Blogs** for more details.
+The Forma APIs allow developers to develop apps that integrate with the Forma platform to extend its capabilities in the construction ecosystem. Check **Blogs** for more details.
 
-This github repository provides Postman collections for ACC APIs that contains a fewer endpoints. Each collection of the categories will go to corresponding child folder. More new APIs will be added in the list below with time.
+This github repository provides Postman collections for Forma APIs that contains a fewer endpoints. Each collection of the categories will go to corresponding child folder. More new APIs will be added in the list below with time.
 
 ## API Categories
 
- * [Reviews API](./Reviews%20API/)
+ * [Custom Attributes API](./Custom%20Attributes%20API/)
  * [Packages API](./Packages%20API/)
+ * [Reviews API](./Reviews%20API/)
  * [Transmittals API](./Transmittals%20API/)
 
 ## What's Postman?

@@ -19,7 +19,7 @@ This folder contains a Postman Collection that includes all the current ACC Tran
 - Import Postman environment & collection, please setup the following environment variables, 
     - client_id:     APS App Id.
     - client_secret: APS App Secret.
-    - x-user-id: The autodeskId for an ACC user account.
+    - user_id: The autodeskId for an ACC user account.
 
 ![Env](img/env.png)
 
